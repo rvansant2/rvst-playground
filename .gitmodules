@@ -1,0 +1,3 @@
+[submodule "tools/cryptdoc"]
+	path = tools/cryptdoc
+	url = https://github.com/rvansant2/cryptdoc
